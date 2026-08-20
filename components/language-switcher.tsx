@@ -95,12 +95,20 @@ export function LanguageSwitcher() {
   }, []);
 
   const switchLocale = (newLocale: Locale) => {
+    if (newLocale === locale) {
+      setOpen(false);
+      return;
+    }
     let basePath = pathname;
     if (locale !== 'ca' && pathname?.startsWith(`/${locale}`)) {
       basePath = pathname.slice(`/${locale}`.length) || '/';
     }
     const newPath = newLocale === 'ca' ? basePath : `/${newLocale}${basePath}`;
+    // Persist the chosen locale so next-intl's middleware doesn't redirect back
+    // via locale detection (e.g. switching to the prefix-less default locale `ca`).
+    document.cookie = `NEXT_LOCALE=${newLocale};path=/;max-age=31536000;samesite=lax`;
     router.push(newPath);
+    router.refresh();
     setOpen(false);
   };
 
