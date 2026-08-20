@@ -50,3 +50,7 @@ yarn-error.log*
 
 # abacus/hosting artifacts
 __abacus_error_reporter.js
+.env*
+.agents/
+.claude/
+skills-lock.json
