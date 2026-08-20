@@ -1,0 +1,693 @@
+{
+  "nav": {
+    "inici": "Início",
+    "vendre": "Vender Empresa",
+    "comprar": "Comprar Empresa",
+    "oportunitats": "Oportunidades",
+    "metode": "Método",
+    "corpand": "CORPAND",
+    "contacte": "Contacto",
+    "valoracio": "Avaliação",
+    "perfilInversor": "Perfil de investidor",
+    "privacitat": "Privacidade",
+    "avisLegal": "Aviso legal",
+    "cookies": "Cookies",
+    "configurarCookies": "Configurar cookies"
+  },
+  "hero": {
+    "title": "Operações empresariais em Andorra",
+    "subtitle": "Assessoramos empresários e investidores na venda, aquisição e implantação de empresas em Andorra.",
+    "cta1": "Vender Empresa",
+    "cta2": "Comprar Empresa",
+    "cta3": "Explorar Oportunidades",
+    "approach": "Uma abordagem seletiva e confidencial, desde a análise inicial até ao fecho.",
+    "tagline": "Poucas operações. Bem selecionadas. Bem executadas."
+  },
+  "positioning": {
+    "title": "Operações corporativas e implantação empresarial em Andorra",
+    "description": "Selecionamos oportunidades, estruturamos processos e coordenamos os especialistas necessários para que cada operação avance com critério, discrição e uma visão de longo prazo.",
+    "tagline": "Poucas operações. Bem selecionadas. Bem executadas."
+  },
+  "services": {
+    "title": "Áreas de atuação",
+    "s1title": "Venda de empresas",
+    "s1desc": "Assessoria integral na transmissão de empresas, com confidencialidade absoluta e seleção rigorosa de compradores.",
+    "s2title": "Aquisição de empresas",
+    "s2desc": "Identificação e análise de oportunidades de investimento em Andorra para investidores nacionais e internacionais.",
+    "s3title": "Implantação em Andorra",
+    "s3desc": "Coordenação de todo o processo de estabelecimento empresarial: fiscal, legal, imobiliário e operacional.",
+    "s4title": "Consultoria estratégica",
+    "s4desc": "Análise e estruturação de operações corporativas com uma visão de longo prazo."
+  },
+  "whyCorpand": {
+    "title": "Porquê CORPAND",
+    "r1title": "Discrição total",
+    "r1desc": "Cada operação é gerida com a máxima confidencialidade, protegendo os interesses de todas as partes.",
+    "r2title": "Critério seletivo",
+    "r2desc": "Não aceitamos todos os mandatos. Selecionamos as operações onde podemos entregar valor real.",
+    "r3title": "Rede de especialistas",
+    "r3desc": "Coordenamos os especialistas jurídicos, fiscais, financeiros e imobiliários necessários para cada operação.",
+    "r4title": "Conhecimento local",
+    "r4desc": "Compreendemos o tecido empresarial andorrano, as suas particularidades e as oportunidades do mercado."
+  },
+  "ctaBanner": {
+    "title": "Tem um projeto empresarial em Andorra?",
+    "subtitle": "Falemos com total confidencialidade.",
+    "button": "Contacto confidencial"
+  },
+  "vendre": {
+    "heroTitle": "Vender a sua empresa em Andorra",
+    "heroSubtitle": "Um processo discreto, estruturado e orientado a proteger o valor do seu negócio.",
+    "introTitle": "Vender uma empresa não é apenas uma transação",
+    "introDesc": "Para muitos proprietários, representa anos de trabalho, relações e decisões. Por isso o processo deve proteger não só o seu valor, mas também a sua confidencialidade e continuidade.",
+    "processTitle": "O nosso processo",
+    "step1title": "Análise inicial",
+    "step1desc": "Avaliamos a situação da empresa, os seus ativos, o mercado e as motivações do proprietário.",
+    "step2title": "Preparação",
+    "step2desc": "Estruturamos a documentação, definimos a avaliação e preparamos o memorando confidencial.",
+    "step3title": "O comprador certo",
+    "step3desc": "Encontrar um comprador não é suficiente. O que importa é encontrar o comprador certo: solvência, capacidade real de executar, encaixe e condições, sempre sob confidencialidade.",
+    "step4title": "Negociação e fecho",
+    "step4desc": "Acompanhamos todo o processo de negociação até ao fecho, coordenando todos os profissionais envolvidos.",
+    "confidTitle": "Confidencialidade garantida",
+    "confidDesc": "Nenhuma informação sobre a sua empresa será partilhada sem o seu consentimento explícito. Todos os potenciais compradores assinam acordos de confidencialidade antes de receberem qualquer dado.",
+    "formTitle": "Quer explorar a venda da sua empresa?",
+    "formSubtitle": "Preencha o formulário e entraremos em contacto consigo de forma confidencial."
+  },
+  "comprar": {
+    "heroTitle": "Investir e adquirir em Andorra",
+    "heroSubtitle": "Não precisa de mais oportunidades. Precisa das certas.",
+    "introTitle": "Oportunidades com critério",
+    "introDesc": "A CORPAND identifica, filtra e analisa oportunidades empresariais em Andorra antes de as apresentar aos investidores. Antes de apresentar uma oportunidade, avaliamos o negócio, a informação disponível, a lógica da operação e o encaixe potencial com o mandato do investidor.",
+    "criteriaTitle": "Perfil de investimento",
+    "c1title": "Empresas em funcionamento",
+    "c1desc": "Negócios ativos com histórico comprovado e potencial de crescimento.",
+    "c2title": "Novas implantações",
+    "c2desc": "Projetos de estabelecimento empresarial para investidores que querem operar a partir de Andorra.",
+    "c3title": "Ativos estratégicos",
+    "c3desc": "Licenças, imóveis comerciais e ativos com valor estratégico no Principado.",
+    "processTitle": "Como funciona",
+    "p1": "Registe o seu perfil de investimento e preferências.",
+    "p2": "Receberá oportunidades selecionadas que se adequem ao seu mandato.",
+    "p3": "Aceda a documentação detalhada sob acordo de confidencialidade.",
+    "p4": "Acompanhamo-lo em toda a due diligence e no fecho da operação.",
+    "formTitle": "Registe o seu mandato de investimento",
+    "formSubtitle": "Diga-nos o que procura e apresentaremos oportunidades adequadas."
+  },
+  "oportunitats": {
+    "heroTitle": "Oportunidades",
+    "heroSubtitle": "Deal flow selecionado e confidencial.",
+    "privateTitle": "Acesso privado",
+    "privateDesc": "As oportunidades atuais são partilhadas de forma privada com investidores registados. Antes de apresentar uma oportunidade, avaliamos o negócio, a informação disponível, a lógica da operação e o encaixe com o mandato do investidor.",
+    "cta": "Registar o meu mandato de investimento"
+  },
+  "metode": {
+    "heroTitle": "O nosso método",
+    "heroSubtitle": "Cada operação precisa de um processo. Especialmente quando o que está em jogo é importante.",
+    "introTitle": "Cinco etapas para cada operação",
+    "introDesc": "Cada mandato segue um processo rigoroso que garante a qualidade, a confidencialidade e a eficácia na execução.",
+    "steps": [
+      {
+        "title": "Análise",
+        "desc": "Estudamos a operação, o mercado, os atores e as condições para determinar a viabilidade e a estratégia adequada."
+      },
+      {
+        "title": "Seleção",
+        "desc": "Identificamos e qualificamos as contrapartes adequadas, aplicando critérios estritos de qualidade e solvência."
+      },
+      {
+        "title": "Estruturação",
+        "desc": "Definimos a estrutura da operação: avaliação, condições, calendário e documentação necessária."
+      },
+      {
+        "title": "Coordenação",
+        "desc": "Coordenamos advogados, fiscalistas, auditores e todos os profissionais envolvidos para avançar com eficácia."
+      },
+      {
+        "title": "Fecho",
+        "desc": "Acompanhamos as partes até à assinatura, assegurando que cada detalhe está resolvido."
+      }
+    ],
+    "networkTitle": "Uma rede coordenada de profissionais especializados",
+    "networkDesc": "Cada operação requer uma especialização diferente. A CORPAND coordena os especialistas jurídicos, fiscais, financeiros, imobiliários e setoriais necessários para cada operação.",
+    "discretionTitle": "Protocolos de discrição",
+    "discretionDesc": "A confidencialidade não é um valor acrescentado, é o fundamento do nosso trabalho. Aplicamos protocolos estritos em cada fase da operação para proteger a identidade e os interesses de todas as partes."
+  },
+  "about": {
+    "heroTitle": "CORPAND",
+    "heroSubtitle": "Operações Empresariais · Andorra",
+    "identityTitle": "Quem somos",
+    "identityDesc": "As transações empresariais raramente fracassam por falta de profissionais. Tornam-se difíceis quando ninguém coordena o conjunto do processo. A CORPAND nasceu para dar esse ponto de coordenação em Andorra.",
+    "positioningTitle": "O nosso posicionamento",
+    "positioningQuote": "Poucas operações. Bem selecionadas. Bem executadas.",
+    "positioningDesc": "Acreditamos que a qualidade se mede pelo rigor do processo, não pelo volume de transações. Cada operação que aceitamos recebe a mesma dedicação e atenção ao detalhe.",
+    "valuesTitle": "Valores",
+    "values": [
+      {
+        "title": "Critério",
+        "desc": "Selecionamos as operações onde podemos entregar valor real. Dizemos não quando é necessário."
+      },
+      {
+        "title": "Discrição",
+        "desc": "A confidencialidade é o fundamento do nosso trabalho e a base da confiança dos nossos clientes."
+      },
+      {
+        "title": "Rigor",
+        "desc": "Cada processo segue uma metodologia estruturada. Não há espaço para improvisação."
+      },
+      {
+        "title": "Visão de longo prazo",
+        "desc": "Orientamos cada operação para resultados sustentáveis, não para soluções rápidas."
+      }
+    ],
+    "teamTitle": "O nosso modelo",
+    "teamDesc": "A CORPAND funciona com um núcleo de gestão que coordena os especialistas externos necessários para cada operação. Um único ponto de coordenação; o especialista certo para cada etapa."
+  },
+  "contacte": {
+    "heroTitle": "Contacto confidencial",
+    "heroSubtitle": "Todas as consultas são geridas com a máxima discrição.",
+    "introTitle": "Falemos",
+    "introDesc": "Se está a considerar vender, adquirir ou implantar uma empresa em Andorra, podemos começar com uma conversa confidencial.",
+    "digitalTitle": "Somos digitais. Trabalhamos onde é preciso.",
+    "digitalDesc": "Na CORPAND optámos por uma estrutura ágil e sem escritórios corporativos permanentes. É uma decisão consciente: preferimos destinar os recursos onde realmente geram valor, em vez de manter estruturas e custos que, inevitavelmente, acabam por repercutir no cliente.\n\nDeslocamo-nos, reunimo-nos e trabalhamos onde cada operação o exige. Nas instalações dos nossos clientes, com as suas equipas ou em espaços privados adequados a cada situação.\n\nEntendemos o serviço boutique a partir da proximidade, da disponibilidade e da confiança, não a partir de uma morada física.",
+    "digitalTagline": "Menos estrutura. Mais envolvimento."
+  },
+  "form": {
+    "nom": "Nome",
+    "cognoms": "Apelidos",
+    "email": "E-mail",
+    "telefon": "Telefone",
+    "tipusOperacio": "Tipo de operação",
+    "tipusOptions": {
+      "vendre": "Vender empresa",
+      "comprar": "Comprar empresa",
+      "implantacio": "Implantação em Andorra",
+      "altra": "Outra consulta"
+    },
+    "missatge": "Mensagem",
+    "confidencial": "Aceito que os meus dados sejam tratados de forma confidencial pela CORPAND.",
+    "enviar": "Solicitar uma conversa confidencial",
+    "enviant": "A enviar...",
+    "success": "Obrigado por contactar a CORPAND. Recebemos o seu pedido e tratá-lo-emos de forma confidencial.",
+    "error": "Ocorreu um erro. Por favor, tente novamente.",
+    "required": "Campo obrigatório",
+    "invalidEmail": "Endereço de e-mail inválido",
+    "selectOption": "Selecione uma opção",
+    "consentRequired": "Para continuar, aceite a Política de privacidade."
+  },
+  "footer": {
+    "tagline": "Operações Empresariais · Andorra",
+    "rights": "© {year} CORPAND. Todos os direitos reservados.",
+    "confidentiality": "Todas as operações são geridas sob protocolos estritos de confidencialidade."
+  },
+  "valoracio": {
+    "page": {
+      "heroTitle": "Quanto vale a sua empresa?",
+      "heroSubtitle": "Uma estimativa indicativa, confidencial e sem compromisso como primeiro passo de uma conversa séria.",
+      "introTitle": "Um ponto de partida, não um veredicto",
+      "introDesc": "Esta ferramenta dá-lhe uma faixa de valor indicativa com base em alguns indicadores-chave do seu negócio. Não substitui uma avaliação profissional: é o primeiro passo para compreender a ordem de grandeza em que a sua empresa se situa, com a mesma discrição que aplicamos em cada operação.",
+      "howTitle": "Como funciona",
+      "how": [
+        {
+          "title": "Indicadores básicos",
+          "desc": "Introduz alguns números-chave sobre o seu negócio. Quanta mais informação fornecer, mais afinada será a estimativa."
+        },
+        {
+          "title": "Cálculo por múltiplos de mercado",
+          "desc": "Aplicamos múltiplos de referência do seu setor, benchmarks e parâmetros estabelecidos sobre o EBITDA e a faturação, ajustados por dívida, crescimento e recorrência."
+        },
+        {
+          "title": "Faixa indicativa",
+          "desc": "Recebe uma faixa de valor e um relatório explicativo. Se pretender precisão, pode partilhar documentação para uma avaliação profissional."
+        }
+      ],
+      "securityTitle": "Os seus dados, protegidos",
+      "securityDesc": "Toda a informação que introduz é 100% confidencial e privada. É utilizada apenas para elaborar a sua avaliação e, se o autorizar, para o contactar. Os dados são transmitidos de forma segura, não são partilhados com terceiros e não são utilizados para qualquer outra finalidade.",
+      "startTitle": "Calcule a sua avaliação",
+      "startDesc": "Alguns minutos. Confidencial. Sem compromisso.",
+      "methodTitle": "Uma avaliação baseada em dados, não em intuições",
+      "methodDesc": "Cada estimativa é gerada com o nosso motor próprio a partir de dados de mercado, múltiplos de referência do seu setor, benchmarks e parâmetros estabelecidos. Não improvisamos números: fundamentamo-los. O resultado é um intervalo orientativo, honesto e rigoroso, que serve de ponto de partida para uma análise mais profunda."
+    },
+    "sectors": {
+      "tecnologia": "Tecnologia e software",
+      "salut": "Saúde e serviços médicos",
+      "serveis": "Serviços profissionais",
+      "turisme": "Turismo e lazer",
+      "hostaleria": "Hotelaria e restauração",
+      "immobiliari": "Imobiliário",
+      "construccio": "Construção",
+      "industria": "Indústria e fabrico",
+      "distribucio": "Distribuição e logística",
+      "comerc": "Comércio e retalho",
+      "financer": "Serviços financeiros",
+      "alimentacio": "Alimentação e bebidas",
+      "automocio": "Automóvel",
+      "educacio": "Educação e formação",
+      "altres": "Outros setores"
+    },
+    "wizard": {
+      "step1Label": "Indicadores",
+      "step2Label": "Dados de contacto",
+      "step3Label": "Resultado",
+      "sector": "Setor de atividade",
+      "sectorPlaceholder": "Selecione o setor",
+      "facturacio": "Faturação anual",
+      "optionalSection": "Dados opcionais — melhoram a precisão",
+      "ebitda": "EBITDA anual",
+      "beneficiNet": "Lucro líquido",
+      "deuteFinancer": "Dívida financeira",
+      "tresoreria": "Tesouraria e liquidez",
+      "patrimoniNet": "Capitais próprios",
+      "empleats": "Número de colaboradores",
+      "anysActivitat": "Anos de atividade",
+      "creixement": "Tendência de crescimento",
+      "creixementOptions": {
+        "negatiu": "Em queda",
+        "estable": "Estável",
+        "moderat": "Crescimento moderado",
+        "alt": "Crescimento elevado"
+      },
+      "recurrencia": "Receitas recorrentes",
+      "recurrenciaOptions": {
+        "baixa": "Baixa",
+        "mitjana": "Média",
+        "alta": "Alta"
+      },
+      "next": "Continuar",
+      "back": "Voltar",
+      "calculate": "Calcular avaliação",
+      "calculating": "A calcular...",
+      "leadIntro": "Para lhe mostrar o resultado e podermos explicá-lo, precisamos de alguns dados de contacto. Tratamo-los com total confidencialidade: são privados, seguros e utilizados apenas para esta finalidade.",
+      "nom": "Nome",
+      "cognoms": "Apelido",
+      "email": "E-mail",
+      "telefon": "Telefone",
+      "empresa": "Nome da empresa",
+      "consentPrivacitat": "Li e aceito a",
+      "privacyLink": "política de privacidade",
+      "consentContacte": "Autorizo a CORPAND a contactar-me para discutir a avaliação e os possíveis próximos passos.",
+      "sectionBasic": "Dados básicos",
+      "sectionFinancial": "Dados financeiros",
+      "sectionQualitative": "Contexto do negócio",
+      "docsTitle": "Documentação (opcional)",
+      "docsDesc": "Se quiser, pode anexar documentação que nos ajude a afinar a avaliação (contas anuais, balanço, demonstração de resultados…). É totalmente voluntário e confidencial.",
+      "docsAttach": "Anexar ficheiros",
+      "precisionNote": "Quanta mais informação fornecer, mais precisa e diligente será a avaliação.",
+      "methodNote": "Os cálculos baseiam-se em dados de mercado, benchmarks setoriais e parâmetros estabelecidos.",
+      "requiredHint": "Os campos marcados com * são obrigatórios."
+    },
+    "result": {
+      "badge": "Avaliação indicativa",
+      "title": "A faixa de valor estimada da sua empresa",
+      "rangeLabel": "Faixa de valor estimada",
+      "centralLabel": "Valor de referência central",
+      "disclaimer": "Trata-se de uma avaliação indicativa preliminar, de caráter informativo e não vinculativo. Não constitui uma peritagem nem uma oferta. O valor real de uma empresa depende de fatores que exigem uma análise profissional detalhada.",
+      "reportTitle": "Leitura da avaliação",
+      "reportLoading": "A preparar a sua leitura personalizada...",
+      "reportUnavailable": "A leitura detalhada não está disponível neste momento. Entraremos em contacto consigo para a discutir.",
+      "contactCta": "Prefere falar diretamente? Contacte-nos",
+      "confirmTitle": "Pedido recebido com sucesso",
+      "confirmDesc": "Calculámos a sua avaliação orientativa e registámos o seu pedido de forma segura e confidencial.",
+      "uploadingDocs": "Estamos a carregar a documentação anexada de forma segura…",
+      "methodTitle": "Como calculámos este intervalo",
+      "methodDesc": "A avaliação é gerada com o nosso motor próprio a partir de múltiplos de mercado do seu setor, benchmarks setoriais e parâmetros estabelecidos, ajustados pela dívida líquida, pelo crescimento, pela recorrência de receitas e pelo percurso da empresa.",
+      "nextStepsTitle": "Próximos passos",
+      "nextSteps": [
+        {
+          "title": "Revisão pela nossa equipa",
+          "desc": "Analisamos a informação que nos forneceu com critério e discrição."
+        },
+        {
+          "title": "Conversa confidencial",
+          "desc": "Contactamo-lo para compreender o seu objetivo e comentar a avaliação, sem qualquer compromisso."
+        },
+        {
+          "title": "Avaliação profissional",
+          "desc": "Se desejar, aprofundamos com uma avaliação detalhada a partir da documentação da empresa."
+        }
+      ],
+      "confidentialityTitle": "Os seus dados são 100% confidenciais",
+      "confidentialityDesc": "Toda a informação que nos fornece é privada e é utilizada apenas para elaborar a sua avaliação e, se o autorizar, para o contactar. Não é partilhada com terceiros nem utilizada para qualquer outra finalidade."
+    },
+    "layer2": {
+      "title": "Pretende uma avaliação profissional?",
+      "desc": "A faixa acima é uma estimativa automatizada. Se pretender uma avaliação rigorosa preparada pela nossa equipa, pode partilhar a documentação da sua empresa de forma segura e confidencial.",
+      "cta": "Partilhar documentação",
+      "securityTitle": "Espaço seguro e confidencial",
+      "securityDesc": "Os documentos são transmitidos encriptados e armazenados num espaço privado, acessível apenas pela equipa da CORPAND. Não são partilhados com terceiros e pode solicitar a sua eliminação a qualquer momento.",
+      "categories": {
+        "estructura": {
+          "title": "Estrutura societária",
+          "desc": "Escrituras, estatutos, participações, organigrama societário e eventuais empresas relacionadas."
+        },
+        "comptable": {
+          "title": "Informação contabilística e financeira",
+          "desc": "Contas anuais dos últimos anos, balanços, demonstrações de resultados e situação atual."
+        },
+        "fiscal": {
+          "title": "Informação fiscal",
+          "desc": "Declarações fiscais, situação perante a administração e eventuais contingências fiscais."
+        },
+        "bancs": {
+          "title": "Banca e financiamento",
+          "desc": "Linhas de crédito, empréstimos, garantias, avales e relações com instituições financeiras."
+        },
+        "actius": {
+          "title": "Ativos",
+          "desc": "Imóveis, maquinaria, veículos, existências e ativos intangíveis relevantes."
+        },
+        "clients": {
+          "title": "Clientes e receitas",
+          "desc": "Carteira de clientes, concentração, recorrência e evolução das receitas."
+        },
+        "contractes": {
+          "title": "Contratos e negócio futuro",
+          "desc": "Contratos relevantes, encomendas em curso e acordos que afetam o negócio futuro."
+        },
+        "personal": {
+          "title": "Pessoal e estrutura de gestão",
+          "desc": "Quadro de pessoal, custos laborais, posições-chave e dependência de pessoas específicas."
+        },
+        "contingencies": {
+          "title": "Contingências",
+          "desc": "Litígios, reclamações, inspeções ou qualquer risco que possa afetar a operação."
+        },
+        "estrategica": {
+          "title": "Informação estratégica disponível",
+          "desc": "Plano de negócios, projeções, vantagens competitivas e qualquer documento estratégico."
+        }
+      },
+      "uploadButton": "Anexar",
+      "uploadError": "erro no carregamento",
+      "dossierNote": "Não precisa de preparar nem organizar nada. Anexe o que tiver, em qualquer formato (PDF, Excel, Word, exportações ou ficheiros comprimidos). Nós tratamos disso.",
+      "finishDesc": "Recebemos {count} documento(s). A nossa equipa irá analisá-los de forma confidencial e entrará em contacto consigo para avançar com a avaliação profissional."
+    },
+    "errors": {
+      "required": "Selecione o setor e introduza a faturação anual para continuar.",
+      "consent": "Deve aceitar a política de privacidade para ver o resultado.",
+      "generic": "Algo correu mal. Tente novamente.",
+      "requiredFull": "Preencha todos os campos obrigatórios (*) para continuar."
+    }
+  },
+  "inversor": {
+    "page": {
+      "heroTitle": "Perfil de investidor",
+      "heroSubtitle": "Obtenha acesso confidencial a oportunidades selecionadas em Andorra.",
+      "introTitle": "Não publicamos o nosso deal flow",
+      "introDesc": "As oportunidades são partilhadas de forma privada com investidores registados, quando correspondem ao seu mandato. Registar o seu perfil não o compromete a nada: permite-nos apresentar apenas o que faz sentido para si.",
+      "benefitsTitle": "O que ganha ao registar-se",
+      "benefits": [
+        {
+          "title": "Deal flow selecionado",
+          "desc": "Apenas operações que correspondem ao seu setor, dimensão de ticket e tipo de operação."
+        },
+        {
+          "title": "Acesso confidencial",
+          "desc": "A informação detalhada é partilhada ao abrigo de um acordo de confidencialidade."
+        },
+        {
+          "title": "Acompanhamento",
+          "desc": "Acompanhamo-lo ao longo da análise, da due diligence e do fecho da operação."
+        }
+      ],
+      "securityTitle": "Confidencialidade garantida",
+      "securityDesc": "Os seus dados e preferências de investimento são tratados com total discrição e não são partilhados com terceiros.",
+      "formTitle": "Registe o seu mandato de investimento",
+      "formDesc": "Quanto mais preciso for o seu perfil, melhor poderemos selecionar oportunidades."
+    },
+    "sectors": {
+      "tecnologia": "Tecnologia e software",
+      "salut": "Saúde e serviços médicos",
+      "serveis": "Serviços profissionais",
+      "turisme": "Turismo e lazer",
+      "hostaleria": "Hotelaria e restauração",
+      "immobiliari": "Imobiliário",
+      "construccio": "Construção",
+      "industria": "Indústria e fabrico",
+      "distribucio": "Distribuição e logística",
+      "comerc": "Comércio e retalho",
+      "financer": "Serviços financeiros",
+      "alimentacio": "Alimentação e bebidas",
+      "automocio": "Automóvel",
+      "educacio": "Educação e formação",
+      "altres": "Outros setores"
+    },
+    "nom": "Nome",
+    "cognoms": "Apelido",
+    "email": "E-mail",
+    "telefon": "Telefone",
+    "entitat": "Entidade ou empresa (opcional)",
+    "tipusInversor": "Tipo de investidor",
+    "selectOption": "Selecione uma opção",
+    "tipusInversorOptions": {
+      "particular": "Investidor particular",
+      "familyOffice": "Family office",
+      "empresa": "Empresa",
+      "fons": "Fundo de investimento",
+      "altre": "Outro"
+    },
+    "sectorsLabel": "Setores de interesse",
+    "tiquetMin": "Ticket mínimo",
+    "tiquetMax": "Ticket máximo",
+    "tipusOperacio": "Tipo de operação",
+    "tipusOperacioOptions": {
+      "majoritaria": "Participação maioritária",
+      "minoritaria": "Participação minoritária",
+      "total": "Aquisição total",
+      "flexible": "Flexível"
+    },
+    "horitzo": "Horizonte de investimento",
+    "horitzoPlaceholder": "ex. 3-5 anos",
+    "zonaGeografica": "Área geográfica de interesse",
+    "criteris": "Outros critérios ou comentários",
+    "consentPrivacitat": "Li e aceito a",
+    "privacyLink": "política de privacidade",
+    "submit": "Registar o meu perfil",
+    "submitting": "A enviar...",
+    "successTitle": "Perfil registado",
+    "successDesc": "Obrigado. Recebemos o seu mandato de investimento e entraremos em contacto consigo quando tivermos oportunidades que correspondam ao seu perfil.",
+    "errors": {
+      "consent": "Deve aceitar a política de privacidade para continuar.",
+      "sectors": "Selecione pelo menos um setor de interesse.",
+      "generic": "Algo correu mal. Tente novamente."
+    }
+  },
+  "privacitat": {
+    "heroTitle": "Privacidade e proteção de dados",
+    "heroSubtitle": "A confidencialidade não é um valor acrescentado: é o fundamento do nosso trabalho.",
+    "intro": "Na CORPAND tratamos os dados e a documentação que nos confia com o mesmo rigor e discrição com que gerimos cada operação. Os seus dados são 100% confidenciais e privados: utilizamo-los apenas para a finalidade concreta que nos solicita e nunca os partilhamos com terceiros sem o seu consentimento explícito. Esta página explica de forma clara como recolhemos, utilizamos, protegemos e conservamos a sua informação.",
+    "sections": [
+      {
+        "title": "Responsable del tractament",
+        "body": "El responsable del tractament de les teves dades personals és [RAÓ SOCIAL] — CORPAND, amb domicili a [PENDENT] i correu electrònic info@corpand.ad. Tractem les dades que ens facilites a través del lloc web, dels formularis de contacte, de l'eina de valoració, del perfil d'inversor i de la documentació que ens comparteixes."
+      },
+      {
+        "title": "Quines dades tractem",
+        "body": "Tractem les dades de contacte que ens proporciones (nom, cognoms, correu, telèfon i, si escau, empresa o entitat), la informació sobre l'operació que ens plantejes, les dades econòmiques que introdueixes voluntàriament a l'eina de valoració i la documentació que decideixis compartir. Apliquem el principi de minimització: només et demanem allò necessari per prestar-te el servei."
+      },
+      {
+        "title": "Finalitats del tractament",
+        "body": "Utilitzem les teves dades per: atendre les teves consultes i sol·licituds; preparar i acompanyar operacions de compravenda, intermediació o inversió; elaborar valoracions i informes; gestionar el perfil d'inversor i el deal-flow privat; complir les obligacions legals aplicables; i, si hi consents de forma separada, enviar-te comunicacions comercials de CORPAND."
+      },
+      {
+        "title": "Bases jurídiques",
+        "body": "Tractem les teves dades sobre la base de: el teu consentiment; l'aplicació de mesures precontractuals sol·licitades per tu; l'execució del contracte o de la relació de servei; el compliment d'obligacions legals; i l'interès legítim de CORPAND a gestionar i millorar la relació professional, sempre de manera proporcionada."
+      },
+      {
+        "title": "Destinataris",
+        "body": "No venem ni cedim les teves dades a tercers amb finalitats comercials. Les teves dades poden ser tractades per proveïdors tecnològics que actuen com a encarregats del tractament (allotjament, correu, eines de gestió). Quan una operació concreta ho requereixi, i amb la deguda base jurídica, les teves dades es poden comunicar a advocats, fiscalistes, auditors, entitats financeres o notaris implicats en l'operació. També es podran comunicar a autoritats quan hi hagi obligació legal."
+      },
+      {
+        "title": "Transferències internacionals",
+        "body": "Alguns proveïdors tecnològics poden tractar dades fora d'Andorra. En aquests casos, ens assegurem que existeixin les garàncies adequades exigides per la normativa aplicable de protecció de dades (per exemple, països amb nivell de protecció adequat o clàusules contractuals de protecció)."
+      },
+      {
+        "title": "Conservació de les dades",
+        "body": "Conservem les teves dades durant el temps necessari per a la finalitat per a la qual es van recollir i, posteriorment, durant els terminis exigits per les obligacions legals aplicables. Quan ja no siguin necessàries, les eliminem o anonimitzem de forma segura."
+      },
+      {
+        "title": "Els teus drets",
+        "body": "Pots exercir els drets d'accés, rectificació, supressió, oposició, limitació del tractament i portabilitat, així com retirar el consentiment en qualsevol moment, sense que això afecti la licitud del tractament previ. Per exercir-los, escriu-nos a info@corpand.ad indicant el dret que vols exercir. També pots presentar una reclamació davant l'Agència Andorrana de Protecció de Dades (APDA) si consideres que no hem ates correctament els teus drets."
+      },
+      {
+        "title": "Consentiment i comunicacions comercials",
+        "body": "El consentiment per a rebre comunicacions comercials és independent i voluntari: no és necessari per contactar amb nosaltres ni per rebre els nostres serveis. El pots retirar en qualsevol moment. Registrem, de forma minimitzada, la data, l'origen i la versió de la política acceptada per acreditar el teu consentiment."
+      },
+      {
+        "title": "Confidencialitat i seguretat",
+        "body": "Tractem les teves dades i la teva documentació amb el mateix rigor i discreció amb què gestionem cada operació. Apliquem mesures tècniques i organitzatives raonables per protegir-les i les compartim únicament amb qui participa en la teva operació, sota deures de confidencialitat."
+      },
+      {
+        "title": "Marc legal",
+        "body": "Aquesta política es regeix per la Llei 29/2021, del 28 d'octubre, qualificada de protecció de dades personals del Principat d'Andorra, i per la resta de normativa aplicable, sota la supervisió de l'Agència Andorrana de Protecció de Dades (APDA)."
+      },
+      {
+        "title": "Actualització de la política",
+        "body": "Podem actualitzar aquesta política per adaptar-la a canvis normatius o operatius. La versió vigent és sempre la publicada en aquesta pàgina."
+      }
+    ],
+    "contactNote": "Para qualquer dúvida sobre esta política ou sobre o tratamento dos seus dados, pode contactar-nos em info@corpand.ad.",
+    "reviewNote": "Esta versão é uma tradução fornecida para fins informativos e está pendente de revisão jurídica. Em caso de discrepância, prevalece a versão em catalão."
+  },
+  "formLegal": {
+    "notice": {
+      "title": "Informação básica sobre proteção de dados",
+      "responsableLabel": "Responsável",
+      "responsable": "[RAÓ SOCIAL] — CORPAND",
+      "finalitatLabel": "Finalidade",
+      "finalitat": "Atender e gerir o seu pedido e, se aplicável, a relação decorrente da operação.",
+      "legitimacioLabel": "Legitimação",
+      "legitimacio": "O seu consentimento e a aplicação de medidas pré-contratuais solicitadas.",
+      "destinatarisLabel": "Destinatários",
+      "destinataris": "Não vendemos nem cedemos os seus dados. Apenas são comunicados a terceiros por obrigação legal ou quando a operação o exija, com a devida base jurídica.",
+      "dretsLabel": "Direitos",
+      "drets": "Pode exercer os direitos de acesso, retificação, eliminação, oposição, limitação e portabilidade escrevendo para info@corpand.ad.",
+      "mesInfoLabel": "Mais informação",
+      "privacyLink": "Consulte a Política de privacidade"
+    },
+    "sensitiveNote": "Recomendamos que não inclua neste primeiro contacto documentação especialmente sensível nem dados confidenciais de terceiros. Orientá-lo-emos, de forma segura, quando for necessário partilhá-los.",
+    "privacyConsent": "Li e aceito a Política de privacidade.",
+    "commercialConsent": "Aceito receber comunicações comerciais da CORPAND."
+  },
+  "cookies": {
+    "heroTitle": "Política de cookies",
+    "heroSubtitle": "Transparência sobre como utilizamos cookies neste site.",
+    "intro": "Um cookie é um pequeno ficheiro que um site guarda no seu dispositivo. Este site utiliza apenas os cookies estritamente necessários para funcionar e para memorizar as suas preferências. Não utilizamos cookies de marketing nem de publicidade. Qualquer cookie não essencial só é ativado com o seu consentimento prévio, que pode retirar a qualquer momento.",
+    "tableCols": {
+      "name": "Cookie",
+      "provider": "Fornecedor",
+      "purpose": "Finalidade",
+      "category": "Categoria",
+      "duration": "Duração",
+      "type": "Tipo"
+    },
+    "table": [
+      {
+        "name": "NEXT_LOCALE",
+        "provider": "CORPAND (corpand.ad)",
+        "purpose": "Memoriza o idioma selecionado.",
+        "category": "Necessário",
+        "duration": "Sessão",
+        "type": "Próprio"
+      },
+      {
+        "name": "corpand_consent",
+        "provider": "CORPAND (corpand.ad)",
+        "purpose": "Armazena as suas preferências de cookies.",
+        "category": "Necessário",
+        "duration": "180 dias",
+        "type": "Próprio"
+      },
+      {
+        "name": "Chat / apoio (Abacus.AI)",
+        "provider": "Abacus.AI",
+        "purpose": "Dá serviço ao chat e à infraestrutura da plataforma onde o site está alojado.",
+        "category": "Necessário (plataforma)",
+        "duration": "Conforme o fornecedor",
+        "type": "De terceiros"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Que cookies utilizamos",
+        "body": "Atualmente utilizamos apenas cookies necessários: o que memoriza o idioma, o que guarda as suas preferências de consentimento e os técnicos associados à plataforma que aloja o site. Não existem cookies de análise nem de marketing ativos."
+      },
+      {
+        "title": "Categorias",
+        "body": "Necessários: indispensáveis para o funcionamento do site; sempre ativos.\nAnalíticos: ajudar-nos-iam a compreender de forma agregada como o site é utilizado; desativados por defeito e apenas ativados com o seu consentimento.\nMarketing: não utilizamos nenhum."
+      },
+      {
+        "title": "Consentimento e bloqueio prévio",
+        "body": "Nenhum cookie não essencial é instalado antes de dar o seu consentimento. Se no futuro incorporarmos ferramentas de análise, só serão carregadas depois de as aceitar expressamente no gestor de cookies."
+      },
+      {
+        "title": "Cookies de terceiros",
+        "body": "O site está alojado numa plataforma tecnológica (Abacus.AI) que pode instalar cookies técnicos necessários para prestar o serviço. Estes cookies regem-se também pelas políticas do fornecedor correspondente."
+      },
+      {
+        "title": "Como gerir os cookies",
+        "body": "Pode aceitar, rejeitar ou configurar os cookies não essenciais no gestor de preferências deste site. Também pode eliminar ou bloquear cookies nas definições do seu navegador; note que desativar os necessários pode afetar o funcionamento do site."
+      }
+    ],
+    "manageIntro": "Pode configurar ou retirar o seu consentimento a qualquer momento:",
+    "manageButton": "Configurar cookies",
+    "contactNote": "Para qualquer dúvida sobre esta política de cookies pode escrever-nos para info@corpand.ad.",
+    "banner": {
+      "title": "Respeitamos a sua privacidade",
+      "body": "Utilizamos cookies necessários para o funcionamento do site. Com o seu consentimento, poderíamos também utilizar cookies analíticos para melhorar a experiência. Pode aceitá-los, rejeitá-los ou configurá-los.",
+      "policyLink": "Política de cookies",
+      "reject": "Rejeitar",
+      "configure": "Configurar",
+      "accept": "Aceitar"
+    },
+    "settings": {
+      "title": "Configuração de cookies",
+      "close": "Fechar",
+      "intro": "Gira as suas preferências por categoria. Os cookies necessários não podem ser desativados porque são indispensáveis para o funcionamento do site.",
+      "policyLink": "Ler a Política de cookies",
+      "always": "Sempre ativos",
+      "rejectAll": "Rejeitar todos",
+      "save": "Guardar preferências",
+      "acceptAll": "Aceitar todos",
+      "cat": {
+        "necessaries": {
+          "name": "Necessários",
+          "desc": "Indispensáveis para o funcionamento do site (idioma, segurança e preferências de consentimento). Sempre ativos."
+        },
+        "analitiques": {
+          "name": "Analíticos",
+          "desc": "Ajudam-nos a compreender, de forma agregada e anónima, como o site é utilizado para o melhorar. Desativados por defeito."
+        },
+        "marqueting": {
+          "name": "Marketing",
+          "desc": "Permitiriam medir campanhas ou mostrar conteúdo personalizado. Atualmente não utilizamos nenhum. Desativados por defeito."
+        }
+      }
+    }
+  },
+  "avisLegal": {
+    "heroTitle": "Aviso legal",
+    "heroSubtitle": "Condições de utilização e informação legal do site da CORPAND.",
+    "intro": "Este aviso legal regula o acesso e a utilização do site da CORPAND. Ao navegar nele, aceita as condições aqui expostas.",
+    "sections": [
+      {
+        "title": "Titularitat",
+        "body": "Titular: [RAÓ SOCIAL].\nNom comercial: CORPAND.\nNRT/NIF: [PENDENT].\nDomicili: [PENDENT].\nCorreu electrònic: info@corpand.ad.\nDades registrals: [PENDENT]."
+      },
+      {
+        "title": "Objecte i serveis",
+        "body": "CORPAND és una boutique andorrana especialitzada en la compravenda, la intermediació i les operacions corporatives sobre empreses. A través d'aquest lloc oferim informació sobre els nostres serveis i canals de contacte confidencial per a empresaris, compradors i inversors."
+      },
+      {
+        "title": "Naturalesa informativa",
+        "body": "El contingut d'aquest lloc té caràcter general i merament informatiu. No constitueix assessorament legal, fiscal, financer ni d'inversió, ni cap oferta vinculant. Cada operació requereix una anàlisi individualitzada. Els serveis regulats són prestats per professionals legalment habilitats; CORPAND coordina i acompanya les operacions sense atribuir-se serveis reservats a professions regulades."
+      },
+      {
+        "title": "Propietat intel·lectual i industrial",
+        "body": "Els continguts d'aquest lloc (textos, disseny, logotips, marques i altres elements) són titularitat de CORPAND o de tercers que n'han autoritzat l'ús, i estan protegits per la normativa de propietat intel·lectual i industrial. No se'n permet la reproducció, distribució o transformació sense autorització expréssa."
+      },
+      {
+        "title": "Responsabilitat",
+        "body": "CORPAND procura que la informació del lloc sigui exacta i actualitzada, però no garanteix l'ausència d'errors ni la disponibilitat ininterrompuda del servei. CORPAND no es responsabilitza de les decisions preses únicament a partir de la informació publicada, que sempre s'ha de contrastar amb l'assessorament professional adient."
+      },
+      {
+        "title": "Ús del lloc web",
+        "body": "L'usuari es compromet a fer un ús lícit del lloc, a no dur a terme activitats que en perjudiquin el funcionament i a facilitar informació verídica en els formularis de contacte."
+      },
+      {
+        "title": "Enllaços externs",
+        "body": "Aquest lloc pot contenir enllaços a llocs de tercers. CORPAND no controla ni es responsabilitza dels continguts ni de les polítiques de privacitat d'aquests llocs externs."
+      },
+      {
+        "title": "Modificacions",
+        "body": "CORPAND es reserva el dret de modificar aquest avís legal i els continguts del lloc en qualsevol moment. La versió vigent és la publicada en aquesta pàgina."
+      },
+      {
+        "title": "Legislació aplicable",
+        "body": "Aquest avís legal es regeix per la legislació del Principat d'Andorra. Qualsevol controvèrsia se sotmetrà als tribunals competents del Principat d'Andorra."
+      }
+    ],
+    "contactNote": "Para qualquer questão relativa a este aviso legal pode escrever-nos para info@corpand.ad.",
+    "reviewNote": "Esta versão é uma tradução fornecida para fins informativos e está pendente de revisão jurídica. Em caso de discrepância, prevalece a versão em catalão."
+  }
+}

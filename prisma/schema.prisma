@@ -1,0 +1,129 @@
+generator client {
+    provider = "prisma-client-js"
+    binaryTargets = ["native", "rhel-openssl-3.0.x"]
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+model ContactSubmission {
+  id            Int      @id @default(autoincrement())
+  nom           String
+  cognoms       String
+  email         String
+  telefon       String?
+  tipusOperacio String   @map("tipus_operacio")
+  missatge      String
+  confidencial  Boolean  @default(true)
+  consentPrivacitat Boolean @default(false) @map("consent_privacitat")
+  consentComercial  Boolean @default(false) @map("consent_comercial")
+  politicaVersio    String? @map("politica_versio")
+  locale        String   @default("ca")
+  status        String   @default("nou")
+  createdAt     DateTime @default(now()) @map("created_at")
+
+  @@map("contact_submissions")
+}
+
+// -----------------------------------------------------------------------------
+// Valuation module (sellers): instant valuation + optional document dossier.
+// -----------------------------------------------------------------------------
+model ValuationRequest {
+  id                String   @id @default(cuid())
+
+  // Lead / contact
+  nom               String
+  cognoms           String
+  email             String
+  telefon           String?
+  empresa           String?
+
+  // Company KPIs (inputs)
+  sector            String
+  anysActivitat     Int?     @map("anys_activitat")
+  facturacio        Float
+  ebitda            Float?
+  beneficiNet       Float?   @map("benefici_net")
+  deuteFinancer     Float?   @map("deute_financer")
+  tresoreria        Float?
+  patrimoniNet      Float?   @map("patrimoni_net")
+  empleats          Int?
+  creixement        String?
+  recurrencia       String?
+
+  // Computed valuation (deterministic engine)
+  valorMin          Float?   @map("valor_min")
+  valorMitja        Float?   @map("valor_mitja")
+  valorMax          Float?   @map("valor_max")
+  metodePrincipal   String?  @map("metode_principal")
+  ebitdaMultipleMin Float?   @map("ebitda_multiple_min")
+  ebitdaMultipleMax Float?   @map("ebitda_multiple_max")
+
+  // AI-generated explanatory report
+  informeIA         String?  @map("informe_ia") @db.Text
+
+  // Meta & consent
+  locale            String   @default("ca")
+  consentPrivacitat Boolean  @default(false) @map("consent_privacitat")
+  consentContacte   Boolean  @default(false) @map("consent_contacte")
+  politicaVersio    String?  @map("politica_versio")
+  status            String   @default("nou")
+  createdAt         DateTime @default(now()) @map("created_at")
+
+  documents         ValuationDocument[]
+
+  @@index([email])
+  @@index([createdAt])
+  @@map("valuation_requests")
+}
+
+model ValuationDocument {
+  id               String   @id @default(cuid())
+  valuationId      String   @map("valuation_id")
+  valuation        ValuationRequest @relation(fields: [valuationId], references: [id], onDelete: Cascade)
+  categoria        String
+  nomFitxer        String   @map("nom_fitxer")
+  cloudStoragePath String   @map("cloud_storage_path")
+  isPublic         Boolean  @default(false) @map("is_public")
+  contentType      String?  @map("content_type")
+  mida             Int?
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  @@index([valuationId])
+  @@map("valuation_documents")
+}
+
+// -----------------------------------------------------------------------------
+// Investor / buyer mandate (buyers): profile for private deal-flow matching.
+// -----------------------------------------------------------------------------
+model InvestorProfile {
+  id                String   @id @default(cuid())
+
+  nom               String
+  cognoms           String
+  email             String
+  telefon           String?
+  entitat           String?
+
+  tipusInversor     String   @map("tipus_inversor")
+  sectorsInteres    String   @map("sectors_interes")
+  tiquetMin         Float?   @map("tiquet_min")
+  tiquetMax         Float?   @map("tiquet_max")
+  tipusOperacio     String?  @map("tipus_operacio")
+  horitzo           String?
+  zonaGeografica    String?  @map("zona_geografica")
+  criteris          String?  @db.Text
+
+  locale            String   @default("ca")
+  consentPrivacitat Boolean  @default(false) @map("consent_privacitat")
+  consentComercial  Boolean  @default(false) @map("consent_comercial")
+  politicaVersio    String?  @map("politica_versio")
+  status            String   @default("nou")
+  createdAt         DateTime @default(now()) @map("created_at")
+
+  @@index([email])
+  @@index([createdAt])
+  @@map("investor_profiles")
+}
